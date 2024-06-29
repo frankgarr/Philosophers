@@ -1,0 +1,8 @@
+.DS_Store
+.*.sw*
+a.out
+philo
+*.o
+*.d
+*.a
+
